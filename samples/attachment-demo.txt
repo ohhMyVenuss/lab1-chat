@@ -1,0 +1,3 @@
+LTM Connect - Lab 01
+Sample attachment for TCP file transfer testing.
+Unicode: Xin chào giảng viên!
